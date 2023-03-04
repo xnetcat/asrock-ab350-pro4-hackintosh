@@ -22,6 +22,7 @@ BIOS Setup:
 - Set SATA Mode: AHCI
 
 Doesn't work:
-- ???
+- Mic - https://dortania.github.io/OpenCore-Post-Install/universal/audio.html#no-mic-on-amd
 
-> Tested only with Big Sur
+
+> Tested on Big Sur and Monterey
